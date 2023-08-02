@@ -1,4 +1,4 @@
-<h1>Hi, I'm Colin! <br/> <a href="https://www.linkedin.com/in/colin-skidmore/">Aspiring Cybersecurity Analyst</a>
+<h1>Hi, I'm Colin! <br/> Aspiring Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
