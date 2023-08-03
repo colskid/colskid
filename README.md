@@ -5,7 +5,7 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/colskid/Cloud-SOC) <br>
 - <b>Linux Projects<b>
-  - [Analyze Traffic w/ TCPDump](https://github.com/colskid/Analyze-TCPDump-Traffic)
+  - [Analyze Network Traffic w/ TCPDump](https://github.com/colskid/Analyze-TCPDump-Traffic)
 
 
 <h2> 🤳 Connect with me:</h2>
