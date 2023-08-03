@@ -3,7 +3,9 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Creating a Live SOC/Honeynet in Azure](https://github.com/colskid/Cloud-SOC)
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/colskid/Cloud-SOC) <br>
+- <b>Analyze Network Traffic with TCPDump<b>
+  - *In Progress*
 
 
 <h2> 🤳 Connect with me:</h2>
