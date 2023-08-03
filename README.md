@@ -8,6 +8,7 @@
   - [Analyze Network Traffic w/ TCPDump](https://github.com/colskid/Analyze-TCPDump-Traffic)
   - [Wireshark: Capture Packets](https://github.com/colskid/Wireshark-Capture-Packets)
 - <b>Windows Projects<b>
+  - [Windows Defender & Firewall](https://github.com/colskid/Windows-Defender-and-Firewall)
 
 <h2> 🤳 Connect with me:</h2>
 
