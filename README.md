@@ -10,7 +10,7 @@
 - <b>Windows Projects<b>
   - [Windows Defender & Firewall](https://github.com/colskid/Windows-Defender-and-Firewall)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🔗 Let's link up:</h2>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="75px" src="https://i.imgur.com/tJYr2gt.png" />][linkedin]
