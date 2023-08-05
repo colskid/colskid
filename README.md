@@ -2,7 +2,7 @@
 
 <h2> 🔒 Cyber Security Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
+- <b>Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/colskid/Cloud-SOC) <br>
   - [Managed Service for Microsoft Active Directory](https://github.com/colskid/Managed-Service-MS-AD)
 - <b>Linux Projects<b>
