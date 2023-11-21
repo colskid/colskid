@@ -1,4 +1,4 @@
-<h1>Colin Skidmore <br/> [IT Professional & Cybersecurity Analyst](https://https://www.linkedin.com/in/colin-skidmore/).</a>
+<h1>Colin Skidmore <br/> [IT Professional & Cybersecurity Analyst](https://www.linkedin.com/in/colin-skidmore/).</a>
 
 <h2> 🔒 Cyber Security Projects:</h2>
 
