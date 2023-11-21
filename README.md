@@ -1,4 +1,4 @@
-<h1>Hello, I'm Colin! <br/> Aspiring Cybersecurity Analyst</a>
+<h1>Colin Skidmore! <br/> IT Professional & Cybersecurity Analyst</a>
 
 <h2> 🔒 Cyber Security Projects:</h2>
 
