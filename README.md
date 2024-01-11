@@ -12,7 +12,7 @@
 - <b>Windows Projects<b>
   - [Windows Defender & Firewall](https://github.com/colskid/Windows-Defender-and-Firewall)
     
-<h2>  src="https://imgur.com/a/kZZazby" Raspberry Pi Projects:</h2>
+<h2>  [<img align="left" alt="JoshMadakor | LinkedIn" width="75px" src="https://i.imgur.com/tJYr2gt.png" />] Raspberry Pi Projects:</h2>
 
 <h2> 🔗 Let's link up:</h2>
 
