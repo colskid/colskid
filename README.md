@@ -13,8 +13,11 @@
   - [Windows Defender & Firewall](https://github.com/colskid/Windows-Defender-and-Firewall)
     
 <h2>  Raspberry Pi Projects:</h2>
-- <b>Homebridge</b>
-  - [PiVPN with Wireguard]
+
+- <b>Homebridge (*In Progress*)</b>
+  - [Homebridge Install w/ SSH]
+  - [Adguard]
+  - [PiVPN with Wireguard - Remote into your RPi]
 
 <h2> 🔗 Let's link up:</h2>
 
