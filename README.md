@@ -1,6 +1,6 @@
 <h1>Colin Skidmore <br/> IT & Cybersecurity Profesional</a>
 
-<h2> 🔒 Cyber Security Projects:</h2>
+<h2>  Cyber Security Projects:</h2>
 
 - <b>Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/colskid/Cloud-SOC) <br>
@@ -12,7 +12,8 @@
 - <b>Windows Projects<b>
   - [Windows Defender & Firewall](https://github.com/colskid/Windows-Defender-and-Firewall)
     
-<h2>  ![Raspberry](https://i.imgur.com/a/kZZazby) Raspberry Pi Projects:</h2>
+<h2>  Raspberry Pi Projects:</h2>
+
 
 <h2> 🔗 Let's link up:</h2>
 
