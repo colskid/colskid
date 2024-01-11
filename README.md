@@ -13,7 +13,8 @@
   - [Windows Defender & Firewall](https://github.com/colskid/Windows-Defender-and-Firewall)
     
 <h2>  Raspberry Pi Projects:</h2>
-  -[PiVPN with Wireguard](Coming Soon)
+- <b></b>
+  - [PiVPN with Wireguard](Coming Soon)
 
 <h2> 🔗 Let's link up:</h2>
 
