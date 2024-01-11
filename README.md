@@ -14,7 +14,7 @@
     
 <h2>  Raspberry Pi Projects:</h2>
 - <b>Homebridge</b>
-  - [PiVPN with Wireguard](Coming Soon)
+  - [PiVPN with Wireguard]
 
 <h2> 🔗 Let's link up:</h2>
 
