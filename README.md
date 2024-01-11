@@ -15,7 +15,7 @@
 <h2>  Raspberry Pi Projects:</h2>
 
 - <b>Homebridge (*In Progress*)</b>
-  - [Homebridge Install w/ SSH]
+  - [Homebridge Install w/ SSH](https://github.com/colskid/homebridge-setup)
   - [Adguard Setup (PiHole Alternative)] 
   - [PiVPN with Wireguard - Remote into your RPi]
 
