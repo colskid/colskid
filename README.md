@@ -12,7 +12,7 @@
 - <b>Windows Projects<b>
   - [Windows Defender & Firewall](https://github.com/colskid/Windows-Defender-and-Firewall)
     
-<h2>  <blockquote class="imgur-embed-pub" lang="en" data-id="a/kZZazby" data-context="false" ><a href="//imgur.com/a/kZZazby"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>  Raspberry Pi Projects:</h2>
+<h2>  src="https://imgur.com/a/kZZazby" Raspberry Pi Projects:</h2>
 
 <h2> 🔗 Let's link up:</h2>
 
