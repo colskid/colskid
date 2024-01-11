@@ -16,7 +16,7 @@
 
 - <b>Homebridge (*In Progress*)</b>
   - [Homebridge Install w/ SSH]
-  - [Adguard]
+  - [Adguard Setup (PiHole Alternative)] 
   - [PiVPN with Wireguard - Remote into your RPi]
 
 <h2> 🔗 Let's link up:</h2>
